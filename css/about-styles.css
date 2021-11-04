@@ -1085,5 +1085,11 @@ p{
 
 
 .work-text{
-    color: black;
+    color: white;
+}
+
+.white-card{
+	background-color: #061922;
+	color: white;
+	box-shadow: 1px 1px 20px 0px orange;
 }
